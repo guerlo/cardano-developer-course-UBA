@@ -49,6 +49,7 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 |-----|--------|----------|
 | **Instructor** | Robertino Martinez | [robertino.martinez@iohk.io](mailto:robertino.martinez@iohk.io) |
 | **TA** | Karina Lopez | [karina.lopez@iohk.io](mailto:karina.lopez@iohk.io) |
+| **TA** | Antonio Ibarra | [antonio.ibarra@iohk.io](mailto:antonio.ibarra@iohk.io) |
 
 ---
 
