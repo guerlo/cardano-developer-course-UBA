@@ -30,7 +30,7 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 
 ```
 📦 cardano-developer-course-uba-2025
-├── 📁 lecciones/          # Contenido de cada clase
+├── 📁 diapositivas/       # Contenido de cada clase
 ├── 📁 ejemplos/           # Código de ejemplo
 └── 📄 README.md           # Este archivo
 ```
