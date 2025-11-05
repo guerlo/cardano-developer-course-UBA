@@ -25,6 +25,12 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 - ✍️ Ejercicios
 - 🛠️ Guías de instalación
 
+## Acceso a las Grabaciones de las Lecciones y Canales de Comunicación
+
+Las sesiones en vivo de este curso están disponibles en [esta lista](https://youtube.com/playlist?list=PLNEK_Ejlx3x1FZzaGmCETf5Q65XA-AZsC&si=P8JHhQkkLs9WIiel) del canal de YouTube IOG Academy.
+
+Para cualquier duda sobre los contenidos del curso, te invitamos a unirte al [canal `#cardano-devs-español`](https://discord.com/channels/826816523368005654/1433802221673382100) dentro del servidor de Discord de Input | Output. Para poder participar, es importante que te unas con el perfil de _builder_.
+
 ---
 
 ## 📂 Estructura del Repositorio
@@ -51,6 +57,7 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 | **Instructor** | Robertino Martinez | [robertino.martinez@iohk.io](mailto:robertino.martinez@iohk.io) |
 | **TA** | Karina Lopez | [karina.lopez@iohk.io](mailto:karina.lopez@iohk.io) |
 | **TA** | Antonio Ibarra | [antonio.ibarra@iohk.io](mailto:antonio.ibarra@iohk.io) |
+| **TA** | J. Arturo Mora | [jose.mora@iohk.io](mailto:jose.mora@iohk.io) |
 
 ---
 
