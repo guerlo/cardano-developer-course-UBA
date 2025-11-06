@@ -130,7 +130,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 1 | Intro a MeshJS y crear primera Tx | 👣 |
 | 2 | Native Scripts | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/03/01-native-scripts.pdf) |
 | 3 | Crear Multisig | [✍️](https://classroom.github.com/a/FD8R2K_N) |
-| 4 | Crear Vesting | ✍️ |
+| 4 | Crear Vesting | [✍️](https://classroom.github.com/a/YicToRj8) |
 | 5 | Native Tokens | 🎞️ |
 | 6 | Mintear/Quemar Tokens | ✍️ |
 
