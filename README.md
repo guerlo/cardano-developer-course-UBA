@@ -173,7 +173,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 ---
 
-### 📗 Día 06 - Validadores Avanzados
+### 📗 Día 06 - Validadores Parametrizados
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
@@ -190,7 +190,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 ---
 
-### 📙 Día 07 - Oráculos y Patrones
+### 📙 Día 07 - Oráculo
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
@@ -209,15 +209,15 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
 | 1 | Testing | 🎞️ |
-| 2 | Vulnerabilidades comunes | 🎞️ |
 
 ---
 
-### 📘 Día 09 - Patrones y Proyecto Final
+### 📘 Día 09 - Vulnerabilidades y patrones comunes
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | Patrones comunes | 🎞️ |
+| 1 | Vulnerabilidades comunes | 🎞️ |
+| 2 | Patrones comunes | 🎞️ |
 
 ---
 
