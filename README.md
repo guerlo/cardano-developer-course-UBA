@@ -162,7 +162,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 1 | NextJS - De Web2 a Web3 | 🎞️ + 👣 |
 | 2 | NextJS - Simple Tx con browser wallet | 🎞️ + 👣 |
 | 3 | ScriptContext | 🎞️ |
-| 4 | Validador "Consume if signed by" | 👣 + ✍️ |
+| 4 | Validador "Consume if signed by" | 👣 + [✍️](https://classroom.github.com/a/a71MwDeD) |
 | 5 | Tiempo en validadores Plutus | 🎞️ |
 | 6 | Validador "Vesting" | 🎞️ + 👣 |
 
