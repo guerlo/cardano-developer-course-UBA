@@ -180,8 +180,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 1 | Validadores Parametrizados | 🎞️ |
 | 2 | Validador "Vesting" parametrizado | 👣 |
 | 3 | Políticas Monetarias | 🎞️ |
-| 4 | PM: "Mint if signed by" | ✍️ |
-| 5 | PM: "Mint if signed by & Token Name" | ✍️ |
+| 4 | PM: "Mint if signed by" | [✍️](https://classroom.github.com/a/AN13kLmo) |
+| 5 | PM: "Mint if signed by & Token Name" | [✍️](https://classroom.github.com/a/LqdsbnsD) |
 | 6 | PM: NFT + Dapp | 👣 |
 
 **📖 Material Opcional:**
