@@ -1,12 +1,12 @@
-name = "luisantonioig/oracle"
+name = "iohkedu/oracle"
 version = "0.0.0"
 compiler = "v1.1.19"
 plutus = "v3"
 license = "Apache-2.0"
-description = "Aiken contracts for project 'luisantonioig/oracle'"
+description = "Aiken contracts for project 'iohkedu/oracle'"
 
 [repository]
-user = "luisantonioig"
+user = "iohkedu"
 project = "oracle"
 platform = "github"
 
