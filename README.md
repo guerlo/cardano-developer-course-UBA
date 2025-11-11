@@ -177,9 +177,9 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | Validadores Parametrizados | 🎞️ |
+| 1 | Validadores Parametrizados | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/06/01-validadores-parametrizado.pdf) |
 | 2 | Validador "Vesting" parametrizado | 👣 |
-| 3 | Políticas Monetarias | 🎞️ |
+| 3 | Políticas Monetarias | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/06/02-minting-policy.pdf) |
 | 4 | PM: "Mint if signed by" | [✍️](https://classroom.github.com/a/AN13kLmo) |
 | 5 | PM: "Mint if signed by & Token Name" | [✍️](https://classroom.github.com/a/LqdsbnsD) |
 | 6 | PM: NFT + Dapp | 👣 |
@@ -194,8 +194,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | Oracle + Server | 👣 |
-| 2 | Validadores "Gift Card" | ✍️ |
+| 1 | Oracle + Server | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/07/oracle.pdf) + 👣 |
+| 2 | Validadores "Gift Card" | [✍️](https://classroom.github.com/a/68ygc1Jq) |
 
 **📖 Material Opcional:**
 
