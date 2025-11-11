@@ -159,12 +159,12 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | NextJS - De Web2 a Web3 | 🎞️ + 👣 |
-| 2 | NextJS - Simple Tx con browser wallet | 🎞️ + 👣 |
-| 3 | ScriptContext | 🎞️ |
+| 1 | NextJS - De Web2 a Web3 | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/01-web2-to-web3.pdf) + 👣 |
+| 2 | NextJS - Simple Tx con browser wallet | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/02-cip-30.pdf) + 👣 |
+| 3 | ScriptContext | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/03-scriptContext.pdf) |
 | 4 | Validador "Consume if signed by" | 👣 + [✍️](https://classroom.github.com/a/a71MwDeD) |
-| 5 | Tiempo en validadores Plutus | 🎞️ |
-| 6 | Validador "Vesting" | 🎞️ + 👣 |
+| 5 | Tiempo en validadores Plutus | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/04-tiempo-validadores.pdf) |
+| 6 | Validador "Vesting" | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/05-vesting-validator.pdf) + 👣 |
 
 **📖 Material Opcional:**
 
