@@ -209,6 +209,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
 | 1 | Testing | 🎞️ |
+| 2 | Escribir pruebas para "swap" |  [✍️](https://classroom.github.com/a/9gy9paJ-) |
+
 
 ---
 
